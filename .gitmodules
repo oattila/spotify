@@ -1,0 +1,3 @@
+[submodule "billboard"]
+	path = billboard
+	url = https://github.com/oattila/billboard
