@@ -1,1 +1,1 @@
-https://raw.githack.com/oattila/spotify/master/html/billboard.html
+https://raw.githack.com/oattila/spotify/master/playlists.html
