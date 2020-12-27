@@ -204,7 +204,8 @@ def MakePlaylistFiles():
 	print(str)
 
 	with open(TOTAL_FILE, "w") as f:
-		f.write(str)
+		f.write(f"{total}\n")
+		f.write(f"{found}\n")
 
 def GetPlaylistIds():
 	if not os.path.isfile(PLAYLIST_FILE):
@@ -309,6 +310,41 @@ def MakePlaylists():
 		filename = constants.PLAYLIST_DIR + f"/{i}.txt"
 		MakePlaylist(str(i), filename, "Billboard Hot 100 #" + str(i) +"s", GetDesc(i))
 
+
+def GetFileDateStr(file):
+	d = datetime.datetime.fromtimestamp(os.path.getmtime(file))
+	return d.strftime("%d.%m.%Y %H:%M")
+
+def MakeHtml():
+	print("Creating " + HTML_FILE)
+	userId = GetUserId()
+
+	with open(HTML_FILE, "w") as f:
+		f.write('<html><head><title>Billboard-Spotify-Playlists</title></head><body><h1>Billboard Hot 100 - All tracks ever as Spotify playlists</h1>\n\n')
+
+		with open(TOTAL_FILE, "r") as ff:
+			total = int(ff.readline().rstrip())
+			found = int(ff.readline().rstrip())
+
+		prse = round(100 * found / total)
+		f.write(f'<p>Total {total} tracks have appeared in Billboard Hot 100, of which {found} ({prse}%) was found in Spotify. Updated {GetFileDateStr(TOTAL_FILE)}.</p>')
+
+		for i in range(1, 101):
+			id = GetPlaylistId(str(i))
+
+			if not id:
+				continue
+
+			url = PUBLIC_PLAYLIST_URL + id
+
+			f.write(f'<a link href="{url}">#{i} tracks</a> ')
+			f.write(f'<small><a link href="https://raw.githubusercontent.com/oattila/billboard/master/peak/{i}.txt">(track list as text)</a> </small>')
+			f.write(f'<small><a link href="https://raw.githubusercontent.com/oattila/spotify/master/playlists/{i}.txt.log">(missing tracks & log)</a></small><br>')
+	
+		f.write('<br><a link href="https://github.com/oattila/spotify">https://github.com/oattila/spotify</a>')
+		f.write('</body></html>')
+
+
 def main():
 	global connection
 	print("\nSpotify megatool 3000")
@@ -322,12 +358,13 @@ def main():
 	parser.add_argument('-c', '--clear_cache', action='store_true', help = "clear cache")
 	parser.add_argument('-plf', '--playlist_files', action='store_true', help = "make all playlist files from peak files")
 	parser.add_argument('-pl', '--playlists', action='store_true', help = "make all playlists from playlist files")
+	parser.add_argument('-html', '--html', action='store_true', help = "make html")
 
 	args = parser.parse_args()
 
 	global connection
 
-	if args.test or args.random or args.retry or args.me or args.playlist_files or args.playlists:
+	if args.test or args.random or args.retry or args.me or args.playlist_files or args.playlists or args.html:
 		connection = Connection()
 
 	if args.test:
@@ -348,6 +385,8 @@ def main():
 		MakePlaylistFiles()
 	elif args.playlists:
 		MakePlaylists()
+	elif args.html:
+		MakeHtml()
 	else:
 		parser.print_help()
 		
