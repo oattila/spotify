@@ -14,16 +14,15 @@ The Lox [Featuring DMX & Lil' Kim]: Money, Power & Respect
 --------- log -----------
 Searching: Jody Reynolds: Endless Sleep
 
-	Jody Reynolds: Endless Sleep
+	Jody Reynolds: Endless Sleep [cached]
 
 Searching: Connie Francis: Stupid Cupid
 
-	Connie Francis: Stupid Cupid
+	Connie Francis: Stupid Cupid [cached]
 
 Searching: Andy Williams: Promise Me, Love
-=========> Andy Williams: Promise Me  Love
 
-	Andy Williams: Promise Me Love
+	Andy Williams: Promise Me Love [cached]
 
 Searching: The Ames Brothers: Pussy Cat
 =========> Ames Brothers: Pussy Cat
@@ -32,333 +31,303 @@ Searching: The Ames Brothers: Pussy Cat
 
 Searching: The Royaltones: Poor Boy
 
-	The Royaltones: Poor Boy
+	The Royaltones: Poor Boy [cached]
 
 Searching: The Falcons: You're So Fine
-=========> The Falcons: You re So Fine
 
-	The Falcons: You're So Fine
+	The Falcons: You're So Fine [cached]
 
 Searching: Pat Boone: Twixt Twelve And Twenty
 
 	 NOT FOUND
 
 Searching: Fats Domino: I'm Gonna Be A Wheel Some Day
-=========> Fats Domino: I m Gonna Be A Wheel Some Day
 
-	Fats Domino: I'm Gonna Be A Wheel Some Day
+	Fats Domino: I'm Gonna Be A Wheel Some Day [cached]
 
 Searching: Dinah Washington: Unforgettable
 
-	Dinah Washington: Unforgettable
+	Dinah Washington: Unforgettable [cached]
 
 Searching: Bill Black's Combo: Smokie - Part 2
-=========> Bill Black s Combo: Smokie   Part 2
 
-	Bill Black's Combo: Smokie Part 2
+	Bill Black's Combo: Smokie Part 2 [cached]
 
 Searching: Connie Francis: Teddy
 
-	Connie Francis: Teddy
+	Connie Francis: Teddy [cached]
 
 Searching: Elvis Presley With The Jordanaires: Fame And Fortune
-=========> Elvis Presley: Fame And Fortune
 
-	Elvis Presley: Fame and Fortune - Remastered
+	Elvis Presley: Fame and Fortune - Remastered [cached]
 
 Searching: Neil Sedaka: You Mean Everything To Me
 
-	Neil Sedaka: You Mean Everything to Me
+	Neil Sedaka: You Mean Everything to Me [cached]
 
 Searching: The Drifters: I Count The Tears
 
-	The Drifters: I Count the Tears
+	The Drifters: I Count the Tears [cached]
 
 Searching: Johnny Burnette: Little Boy Sad
 
-	Johnny Burnette: Little Boy Sad
+	Johnny Burnette: Little Boy Sad [cached]
 
 Searching: Sam Cooke: Cupid
 
-	Sam Cooke: Cupid
+	Sam Cooke: Cupid [cached]
 
 Searching: Ann-Margret: I Just Don't Understand
-=========> Ann Margret: I Just Don t Understand
 
-	Ann-Margret: I Just Don't Understand
+	Ann-Margret: I Just Don't Understand [cached]
 
 Searching: The Four Preps: More Money For You And Me
 
-	The Four Preps: More Money For You and Me
+	The Four Preps: More Money For You and Me [cached]
 
 Searching: Ace Cannon: Tuff
 
-	Ace Cannon: Tuff
+	Ace Cannon: Tuff [cached]
 
 Searching: The Lettermen: Come Back Silly Girl
 
-	The Lettermen: Come Back Silly Girl
+	The Lettermen: Come Back Silly Girl [cached]
 
 Searching: King Curtis And The Noble Knights: Soul Twist
-=========> King Curtis: Soul Twist
 
-	King Curtis: Soul Twist
+	King Curtis: Soul Twist [cached]
 
 Searching: Sam Cooke: Having A Party
 
-	Sam Cooke: Having a Party
+	Sam Cooke: Having a Party [cached]
 
 Searching: The Isley Brothers: Twist And Shout
 
-	The Isley Brothers: Twist And Shout
+	The Isley Brothers: Twist And Shout [cached]
 
 Searching: Johnny Tillotson: Send Me The Pillow You Dream On
 
-	Johnny Tillotson: Send Me the Pillow That You Dream On
+	Johnny Tillotson: Send Me the Pillow That You Dream On [cached]
 
 Searching: The Marvelettes: Beechwood 4-5789
-=========> The Marvelettes: Beechwood 4 5789
 
-	The Marvelettes: Beechwood 4-5789
+	The Marvelettes: Beechwood 4-5789 [cached]
 
 Searching: Rex Allen: Don't Go Near The Indians
-=========> Rex Allen: Don t Go Near The Indians
 
-	Rex Allen, Jr.: Don't Go Near the Indians
+	Rex Allen, Jr.: Don't Go Near the Indians [cached]
 
 Searching: Sammy Davis Jr.: What Kind Of Fool Am I
-=========> Sammy Davis Jr: What Kind Of Fool Am I
 
-	Sammy Davis Jr.: What Kind of Fool Am I
+	Sammy Davis Jr.: What Kind of Fool Am I [cached]
 
 Searching: Sue Thompson: James (Hold The Ladder Steady)
-=========> Sue Thompson: James
 
-	Sue Thompson: James (Hold the Ladder Steady)
+	Sue Thompson: James (Hold the Ladder Steady) [cached]
 
 Searching: The Cookies: Chains
 
-	The Cookies: Chains
+	The Cookies: Chains [cached]
 
 Searching: Neil Sedaka: Alice In Wonderland
 
-	Neil Sedaka: Alice In Wonderland
+	Neil Sedaka: Alice In Wonderland [cached]
 
 Searching: Connie Francis: Follow The Boys
 
-	Connie Francis: Follow The Boys
+	Connie Francis: Follow The Boys [cached]
 
 Searching: Dick and DeeDee: Young And In Love
 
-	Dick: Young And In Love
+	Dick: Young And In Love [cached]
 
 Searching: Ray Barretto: El Watusi
 
-	Ray Barretto: El Watusi
+	Ray Barretto: El Watusi [cached]
 
 Searching: Bobby Rydell: Wildwood Days
 
-	Bobby Rydell: Wildwood Days
+	Bobby Rydell: Wildwood Days [cached]
 
 Searching: Ray Stevens: Harry The Hairy Ape
 
-	Ray Stevens: Harry The Hairy Ape
+	Ray Stevens: Harry The Hairy Ape [cached]
 
 Searching: Johnny Cash: Ring Of Fire
 
-	Johnny Cash: Ring of Fire
+	Johnny Cash: Ring of Fire [cached]
 
 Searching: The Raindrops: The Kind Of Boy You Can't Forget
-=========> The Raindrops: The Kind Of Boy You Can t Forget
 
-	The Raindrops: The Kind of Boy You Can't Forget
+	The Raindrops: The Kind of Boy You Can't Forget [cached]
 
 Searching: Brenda Lee: The Grass Is Greener
 
-	Brenda Lee: The Grass Is Greener
+	Brenda Lee: The Grass Is Greener [cached]
 
 Searching: Gene Pitney: Twenty Four Hours From Tulsa
 
-	Gene Pitney: Twenty Four Hours From Tulsa
+	Gene Pitney: Twenty Four Hours From Tulsa [cached]
 
 Searching: Chubby Checker: Hooka Tooka
 
-	Chubby Checker: Hooka Tooka - Original Hit Recordings
+	Chubby Checker: Hooka Tooka - Original Hit Recordings [cached]
 
 Searching: Sammy Davis Jr.: The Shelter Of Your Arms
-=========> Sammy Davis Jr: The Shelter Of Your Arms
 
-	Sammy Davis Jr.: The Shelter of Your Arms
+	Sammy Davis Jr.: The Shelter of Your Arms [cached]
 
 Searching: Irma Thomas: Wish Someone Would Care
 
-	Irma Thomas: Wish Someone Would Care
+	Irma Thomas: Wish Someone Would Care [cached]
 
 Searching: The New Christy Minstrels: Today
 
-	The New Christy Minstrels: Today
+	The New Christy Minstrels: Today [cached]
 
 Searching: Marvin Gaye & Mary Wells: What's The Matter With You Baby
-=========> Marvin Gaye   Mary Wells: What s The Matter With You Baby
 
-	Marvin Gaye: What's The Matter With You Baby
+	Marvin Gaye: What's The Matter With You Baby [cached]
 
 Searching: Jimmy Hughes: Steal Away
 
-	Jimmy Hughes: Steal Away
+	Jimmy Hughes: Steal Away [cached]
 
 Searching: Bobby Vinton: Clinging Vine
 
-	Bobby Vinton: Clinging Vine
+	Bobby Vinton: Clinging Vine [cached]
 
 Searching: The Beatles: Matchbox
 
-	The Beatles: Matchbox - Remastered 2009
+	The Beatles: Matchbox - Remastered 2009 [cached]
 
 Searching: Gerry And The Pacemakers: I Like It
-=========> Gerry: I Like It
 
-	Gerry & The Pacemakers: I Like It (Main)
+	Gerry & The Pacemakers: I Like It (Main) [cached]
 
 Searching: Brenda Lee: Is It True
 
-	Brenda Lee: Is It True
+	Brenda Lee: Is It True [cached]
 
 Searching: Bobby Vinton: Long Lonely Nights
 
-	Bobby Vinton: Long Lonely Nights - Single Version
+	Bobby Vinton: Long Lonely Nights - Single Version [cached]
 
 Searching: Chad & Jeremy: Before And After
-=========> Chad   Jeremy: Before And After
 
-	Chad & Jeremy: Before and After
+	Chad & Jeremy: Before and After [cached]
 
 Searching: Dino, Desi & Billy: I'm A Fool
-=========> Dino  Desi   Billy: I m A Fool
 
-	Dino, Desi & Billy: I'm a Fool
+	Dino, Desi & Billy: I'm a Fool [cached]
 
 Searching: The Temptations: Since I Lost My Baby
 
-	The Temptations: Since I Lost My Baby
+	The Temptations: Since I Lost My Baby [cached]
 
 Searching: Jonathan King: Everyone's Gone To The Moon
-=========> Jonathan King: Everyone s Gone To The Moon
 
-	Jonathan King: Everyone's Gone to the Moon
+	Jonathan King: Everyone's Gone to the Moon [cached]
 
 Searching: The Yardbirds: I'm A Man
-=========> The Yardbirds: I m A Man
 
-	The Yardbirds: I'm a Man - 2015 Remaster
+	The Yardbirds: I'm a Man - 2015 Remaster [cached]
 
 Searching: The Marketts: Batman Theme
 
-	The Marketts: Batman Theme
+	The Marketts: Batman Theme [cached]
 
 Searching: Mitch Ryder And The Detroit Wheels: Little Latin Lupe Lu
-=========> Mitch Ryder: Little Latin Lupe Lu
 
-	Mitch Ryder and The Detroit Wheels: Little Latin Lupe Lu
+	Mitch Ryder and The Detroit Wheels: Little Latin Lupe Lu [cached]
 
 Searching: Swingin' Medallions: Double Shot (Of My Baby's Love)
-=========> Swingin  Medallions: Double Shot
 
-	The Swingin' Medallions: Double Shot (Of My Baby’s Love)
+	The Swingin' Medallions: Double Shot (Of My Baby’s Love) [cached]
 
 Searching: Percy Sledge: Warm And Tender Love
 
-	Percy Sledge: Warm and Tender Love
+	Percy Sledge: Warm and Tender Love [cached]
 
 Searching: The Critters: Mr. Dieingly Sad
-=========> The Critters: Mr  Dieingly Sad
 
-	The Critters: Mr. Dieingly Sad
+	The Critters: Mr. Dieingly Sad [cached]
 
 Searching: The Miracles: (Come 'round Here) I'm The One You Need
-=========> The Miracles: I m The One You Need
 
-	Smokey Robinson & The Miracles: (Come 'Round Here) I'm The One You Need
+	Smokey Robinson & The Miracles: (Come 'Round Here) I'm The One You Need [cached]
 
 Searching: Jimmy Ruffin: I've Passed This Way Before
-=========> Jimmy Ruffin: I ve Passed This Way Before
 
-	Jimmy Ruffin: I've Passed This Way Before
+	Jimmy Ruffin: I've Passed This Way Before [cached]
 
 Searching: Bar-Kays: Soul Finger
-=========> Bar Kays: Soul Finger
 
-	The Bar-Kays: Soul Finger
+	The Bar-Kays: Soul Finger [cached]
 
 Searching: Bee Gees: To Love Somebody
 
-	Bee Gees: To Love Somebody
+	Bee Gees: To Love Somebody [cached]
 
 Searching: Paul Revere & The Raiders Featuring Mark Lindsay: I Had A Dream
-=========> Paul Revere   The Raiders: I Had A Dream
 
-	Paul Revere & The Raiders: I Had A Dream
+	Paul Revere & The Raiders: I Had A Dream [cached]
 
 Searching: The Rose Garden: Next Plane To London
 
-	The Rose Garden: Next Plane to London - Soundtrack EQ version
+	The Rose Garden: Next Plane to London - Soundtrack EQ version [cached]
 
 Searching: The Marvelettes: My Baby Must Be A Magician
 
-	The Marvelettes: My Baby Must Be A Magician - Stereo Version
+	The Marvelettes: My Baby Must Be A Magician - Stereo Version [cached]
 
 Searching: Gene And Debbe: Playboy
 
-	Gene & Debbe: Playboy
+	Gene & Debbe: Playboy [cached]
 
 Searching: Spanky And Our Gang: Like To Get To Know You
 
-	Spanky & Our Gang: Like To Get To Know You - Greatest Hit(s) Version
+	Spanky & Our Gang: Like To Get To Know You - Greatest Hit(s) Version [cached]
 
 Searching: Tiny Tim: Tip-Toe Thru' The Tulips With Me
-=========> Tiny Tim: Tip Toe Thru  The Tulips With Me
 
-	Tiny Tim: Tip Toe Thru' the Tulips with Me
+	Tiny Tim: Tip Toe Thru' the Tulips with Me [cached]
 
 Searching: Booker T. & The MG's: Soul-Limbo
-=========> Booker T    The MG s: Soul Limbo
 
-	Booker T. & the M.G.'s: Soul Limbo
+	Booker T. & the M.G.'s: Soul Limbo [cached]
 
 Searching: Eddie Floyd: Bring It On Home To Me
 
-	Eddie Floyd: Bring It On Home To Me
+	Eddie Floyd: Bring It On Home To Me [cached]
 
 Searching: Bob Seger System: Ramblin' Gamblin' Man
-=========> Bob Seger System: Ramblin  Gamblin  Man
 
-	Bob Seger: Ramblin' Gamblin' Man
+	Bob Seger: Ramblin' Gamblin' Man [cached]
 
 Searching: The Neon Philharmonic: Morning Girl
 
-	The Neon Philharmonic: Morning Girl - Remastered
+	The Neon Philharmonic: Morning Girl - Remastered [cached]
 
 Searching: Aretha Franklin: Eleanor Rigby
 
-	Aretha Franklin: Eleanor Rigby
+	Aretha Franklin: Eleanor Rigby [cached]
 
 Searching: Gladys Knight And The Pips: Friendship Train
-=========> Gladys Knight: Friendship Train
 
-	Gladys Knight & The Pips: Friendship Train
+	Gladys Knight & The Pips: Friendship Train [cached]
 
 Searching: The Sandpipers: Come Saturday Morning
 
-	The Sandpipers: Come Saturday Morning
+	The Sandpipers: Come Saturday Morning [cached]
 
 Searching: Kenny Rogers & The First Edition: Tell It All Brother
-=========> Kenny Rogers   The First Edition: Tell It All Brother
 
-	Kenny Rogers & The First Edition: Tell It All Brother
+	Kenny Rogers & The First Edition: Tell It All Brother [cached]
 
 Searching: The Guess Who: Hand Me Down World
 
-	The Guess Who: Hand Me Down World
+	The Guess Who: Hand Me Down World [cached]
 
 Searching: Andy Kim: Be My Baby
 
@@ -366,21 +335,19 @@ Searching: Andy Kim: Be My Baby
 
 Searching: Rare Earth: Born To Wander
 
-	Rare Earth: Born To Wander
+	Rare Earth: Born To Wander [cached]
 
 Searching: Wilson Pickett: Don't Let The Green Grass Fool You
-=========> Wilson Pickett: Don t Let The Green Grass Fool You
 
-	Wilson Pickett: Don't Let the Green Grass Fool You
+	Wilson Pickett: Don't Let the Green Grass Fool You [cached]
 
 Searching: The Buoys: Timothy
 
-	The Buoys: Timothy
+	The Buoys: Timothy [cached]
 
 Searching: Gladys Knight And The Pips: I Don't Want To Do Wrong
-=========> Gladys Knight: I Don t Want To Do Wrong
 
-	Gladys Knight & The Pips: I Don't Want to Do Wrong - Live
+	Gladys Knight & The Pips: I Don't Want to Do Wrong - Live [cached]
 
 Searching: Cymarron: Rings
 
@@ -392,218 +359,195 @@ Searching: Freddie Hart: Easy Loving
 
 Searching: Lou Rawls: A Natural Man
 
-	Lou Rawls: A Natural Man
+	Lou Rawls: A Natural Man [cached]
 
 Searching: Faces: Stay With Me
 
-	Faces: Stay With Me
+	Faces: Stay With Me [cached]
 
 Searching: The Who: Join Together
 
-	The Who: Join Together
+	The Who: Join Together [cached]
 
 Searching: Chi Coltrane: Thunder And Lightning
 
-	Chi Coltrane: Thunder & Lightning
+	Chi Coltrane: Thunder & Lightning [cached]
 
 Searching: Jim Croce: Operator (That's Not the Way it Feels)
-=========> Jim Croce: Operator
 
-	Jim Croce: Operator (That's Not the Way It Feels)
+	Jim Croce: Operator (That's Not the Way It Feels) [cached]
 
 Searching: Neil Diamond: Walk On Water
 
-	Neil Diamond: Walk On Water
+	Neil Diamond: Walk On Water [cached]
 
 Searching: Bette Midler: Do You Want To Dance?
-=========> Bette Midler: Do You Want To Dance
 
-	Bette Midler: Do You Want to Dance
+	Bette Midler: Do You Want to Dance [cached]
 
 Searching: Gilbert O'Sullivan: Out Of The Question
-=========> Gilbert O Sullivan: Out Of The Question
 
-	Gilbert O'Sullivan: Out Of The Question
+	Gilbert O'Sullivan: Out Of The Question [cached]
 
 Searching: Carly Simon: The Right Thing To Do
 
-	Carly Simon: The Right Thing to Do
+	Carly Simon: The Right Thing to Do [cached]
 
 Searching: Elvis Presley: Steamroller Blues/Fool
-=========> Elvis Presley: Steamroller Blues
 
-	Elvis Presley: Steamroller Blues - with The Royal Philharmonic Orchestra
+	Elvis Presley: Steamroller Blues - with The Royal Philharmonic Orchestra [cached]
 
 Searching: New York City: I'm Doin' Fine Now
-=========> New York City: I m Doin  Fine Now
 
-	New York City: I'm Doin' Fine Now
+	New York City: I'm Doin' Fine Now [cached]
 
 Searching: Tower Of Power: So Very Hard To Go
 
-	Tower Of Power: So Very Hard to Go
+	Tower Of Power: So Very Hard to Go [cached]
 
 Searching: Three Dog Night: Let Me Serenade You
 
-	Three Dog Night: Let Me Serenade You - Single Version
+	Three Dog Night: Let Me Serenade You - Single Version [cached]
 
 Searching: Moments: Sexy Mama
 
-	The Moments: Sexy Mama
+	The Moments: Sexy Mama [cached]
 
 Searching: Cliff DeYoung: My Sweet Lady
 
 	 NOT FOUND
 
 Searching: The Impressions: Finally Got Myself Together (I'm A Changed Man)
-=========> The Impressions: Finally Got Myself Together
 
-	The Impressions: I'm a Changed Man (Finally Got Myself Together)
+	The Impressions: I'm a Changed Man (Finally Got Myself Together) [cached]
 
 Searching: Elvis Presley: If You Talk In Your Sleep
 
-	Elvis Presley: If You Talk in Your Sleep
+	Elvis Presley: If You Talk in Your Sleep [cached]
 
 Searching: The Rolling Stones: Ain't Too Proud To Beg
-=========> The Rolling Stones: Ain t Too Proud To Beg
 
-	The Rolling Stones: Ain't Too Proud To Beg
+	The Rolling Stones: Ain't Too Proud To Beg [cached]
 
 Searching: Al Martino: To The Door Of The Sun (Alle Porte Del Sole)
-=========> Al Martino: To The Door Of The Sun
 
-	Al Martino: To The Door Of The Sun
+	Al Martino: To The Door Of The Sun [cached]
 
 Searching: Ambrosia: Holdin' On To Yesterday
-=========> Ambrosia: Holdin  On To Yesterday
 
-	Ambrosia: Holdin' on to Yesterday
+	Ambrosia: Holdin' on to Yesterday [cached]
 
 Searching: Carpenters: Solitaire
 
-	Carpenters: Solitaire
+	Carpenters: Solitaire [cached]
 
 Searching: Keith Carradine: I'm Easy
-=========> Keith Carradine: I m Easy
 
-	Keith Carradine: I'm Easy
+	Keith Carradine: I'm Easy [cached]
 
 Searching: The Ritchie Family: The Best Disco In Town
 
-	The Ritchie Family: The Best Disco In Town
+	The Ritchie Family: The Best Disco In Town [cached]
 
 Searching: David Dundas: Jeans On
 
-	David Dundas: Jeans On
+	David Dundas: Jeans On [cached]
 
 Searching: The Sylvers: High School Dance
 
-	The Sylvers: High School Dance - Remastered
+	The Sylvers: High School Dance - Remastered [cached]
 
 Searching: Leo Sayer: How Much Love
 
-	Leo Sayer: How Much Love
+	Leo Sayer: How Much Love [cached]
 
 Searching: B.J. Thomas: Don't Worry Baby
-=========> B J  Thomas: Don t Worry Baby
 
-	B.J. Thomas: Don't Worry Baby
+	B.J. Thomas: Don't Worry Baby [cached]
 
 Searching: The Steve Miller Band: Swingtown
-=========> Steve Miller Band: Swingtown
 
-	Steve Miller Band: Swingtown
+	Steve Miller Band: Swingtown [cached]
 
 Searching: Art Garfunkel With James Taylor & Paul Simon: (What A)  Wonderful World
-=========> Art Garfunkel: Wonderful World
 
-	Art Garfunkel: (What A) Wonderful World
+	Art Garfunkel: (What A) Wonderful World [cached]
 
 Searching: Electric Light Orchestra: Sweet Talkin' Woman
-=========> Electric Light Orchestra: Sweet Talkin  Woman
 
-	Electric Light Orchestra: Sweet Talkin' Woman
+	Electric Light Orchestra: Sweet Talkin' Woman [cached]
 
 Searching: Billy Joel: Movin' Out (Anthony's Song)
-=========> Billy Joel: Movin  Out
 
-	Billy Joel: Movin' Out (Anthony's Song)
+	Billy Joel: Movin' Out (Anthony's Song) [cached]
 
 Searching: Steve Martin And The Toot Uncommons: King Tut
-=========> Steve Martin: King Tut
 
-	Steve Martin and The Toot Uncommons: King Tut - 45 Version
+	Steve Martin and The Toot Uncommons: King Tut - 45 Version [cached]
 
 Searching: Billy Joel: She's Always A Woman
-=========> Billy Joel: She s Always A Woman
 
-	Billy Joel: She's Always a Woman
+	Billy Joel: She's Always a Woman [cached]
 
 Searching: Paul Davis: Sweet Life
 
-	Paul Davis: Sweet Life
+	Paul Davis: Sweet Life [cached]
 
 Searching: Poco: Crazy Love
 
-	Poco: Crazy Love
+	Poco: Crazy Love [cached]
 
 Searching: Gerry Rafferty: Days Gone Down (Still Got The Light In Your Eyes)
-=========> Gerry Rafferty: Days Gone Down
 
-	Gerry Rafferty: Days Gone Down (Still Got the Light in Your Eyes)
+	Gerry Rafferty: Days Gone Down (Still Got the Light in Your Eyes) [cached]
 
 Searching: Atlanta Rhythm Section: Spooky
 
-	Atlanta Rhythm Section: Spooky
+	Atlanta Rhythm Section: Spooky [cached]
 
 Searching: Chris Thompson & Night: If You Remember Me
-=========> Chris Thompson: If You Remember Me
 
-	Chris Thompson: If You Remember Me
+	Chris Thompson: If You Remember Me [cached]
 
 Searching: Neil Diamond: September Morn'
-=========> Neil Diamond: September Morn
 
-	Neil Diamond: September Morn
+	Neil Diamond: September Morn [cached]
 
 Searching: Boz Scaggs: JoJo
 
-	Boz Scaggs: JoJo
+	Boz Scaggs: JoJo [cached]
 
 Searching: Cliff Richard: A Little In Love
 
-	Cliff Richard: A Little in Love - 1987 Remaster
+	Cliff Richard: A Little in Love - 1987 Remaster [cached]
 
 Searching: John Cougar: Ain't Even Done With The Night
-=========> John Cougar: Ain t Even Done With The Night
 
-	John Mellencamp: Ain't Even Done With The Night
+	John Mellencamp: Ain't Even Done With The Night [cached]
 
 Searching: Santana: Winning
 
-	Santana: Winning
+	Santana: Winning [cached]
 
 Searching: Billy Squier: The Stroke
 
-	Billy Squier: The Stroke - Remastered
+	Billy Squier: The Stroke - Remastered [cached]
 
 Searching: Pat Benatar: Fire And Ice
 
-	Pat Benatar: Fire And Ice
+	Pat Benatar: Fire And Ice [cached]
 
 Searching: Billy Joel: Say Goodbye To Hollywood
 
-	Billy Joel: Say Goodbye to Hollywood
+	Billy Joel: Say Goodbye to Hollywood [cached]
 
 Searching: Quincy Jones Featuring James Ingram: Just Once
-=========> Quincy Jones: Just Once
 
-	Quincy Jones: Just Once
+	Quincy Jones: Just Once [cached]
 
 Searching: Kool & The Gang: Take My Heart (You Can Have It If You Want It)
-=========> Kool   The Gang: Take My Heart
 
-	Kool & The Gang: Take My Heart (You Can Have It If You Want It)
+	Kool & The Gang: Take My Heart (You Can Have It If You Want It) [cached]
 
 Searching: Greg Guidry: Goin' Down
 =========> Greg Guidry: Goin  Down
@@ -612,70 +556,67 @@ Searching: Greg Guidry: Goin' Down
 
 Searching: Kansas: Play The Game Tonight
 
-	Kansas: Play the Game Tonight
+	Kansas: Play the Game Tonight [cached]
 
 Searching: Asia: Only Time Will Tell
 
-	Asia: Only Time Will Tell
+	Asia: Only Time Will Tell [cached]
 
 Searching: Kenny Loggins with Steve Perry: Don't Fight It
-=========> Kenny Loggins: Don t Fight It
 
-	Kenny Loggins: Don't Fight It
+	Kenny Loggins: Don't Fight It [cached]
 
 Searching: Evelyn King: Love Come Down
 
-	Evelyn "Champagne" King: Love Come Down - Single Version
+	Evelyn "Champagne" King: Love Come Down - Single Version [cached]
 
 Searching: Survivor: American Heartbeat
 
-	Survivor: American Heartbeat
+	Survivor: American Heartbeat [cached]
 
 Searching: Billy Joel: Allentown
 
-	Billy Joel: Allentown
+	Billy Joel: Allentown [cached]
 
 Searching: Earth, Wind & Fire: Fall In Love With Me
-=========> Earth  Wind   Fire: Fall In Love With Me
 
-	Earth, Wind & Fire: Fall in Love with Me
+	Earth, Wind & Fire: Fall in Love with Me [cached]
 
 Searching: Debarge: All This Love
 
-	DeBarge: All This Love
+	DeBarge: All This Love [cached]
 
 Searching: Big Country: In A Big Country
 
-	Big Country: In A Big Country
+	Big Country: In A Big Country [cached]
 
 Searching: Shalamar: Dancing In The Sheets
 
-	Shalamar: Dancing In the Sheets - From "Footloose" Soundtrack
+	Shalamar: Dancing In the Sheets - From "Footloose" Soundtrack [cached]
 
 Searching: The Jacksons: Torture
 
-	The Jacksons: Torture
+	The Jacksons: Torture [cached]
 
 Searching: Culture Club: The War Song
 
-	Culture Club: The War Song - Remastered 2003
+	Culture Club: The War Song - Remastered 2003 [cached]
 
 Searching: Corey Hart: It Ain't Enough
-=========> Corey Hart: It Ain t Enough
 
-	Corey Hart: It Ain't Enough
+	Corey Hart: It Ain't Enough [cached]
 
 Searching: Bob Seger: Understanding
 
-	Bob Seger: Understanding
+	Bob Seger: Understanding [cached]
 
 Searching: Stevie Wonder: Love Light In Flight
 
-	Stevie Wonder: Love Light In Flight
+	Stevie Wonder: Love Light In Flight [cached]
 
 Searching: Patti LaBelle: New Attitude
 
-	Patti LaBelle: New Attitude
+	Patti LaBelle: New Attitude [cached]
 
 Searching: Limahl: The NeverEnding Story
 =========> Limahl: NeverEnding Story
@@ -684,63 +625,59 @@ Searching: Limahl: The NeverEnding Story
 
 Searching: Sting: Love Is The Seventh Wave
 
-	Sting: Love Is The Seventh Wave
+	Sting: Love Is The Seventh Wave [cached]
 
 Searching: Night Ranger: Goodbye
 
-	Night Ranger: Goodbye
+	Night Ranger: Goodbye [cached]
 
 Searching: Charlie Sexton: Beat's So Lonely
-=========> Charlie Sexton: Beat s So Lonely
 
-	Charlie Sexton: Beat's So Lonely
+	Charlie Sexton: Beat's So Lonely [cached]
 
 Searching: Journey: Suzanne
 
-	Journey: Suzanne
+	Journey: Suzanne [cached]
 
 Searching: Journey: Girl Can't Help It
-=========> Journey: Girl Can t Help It
 
-	Journey: Girl Can't Help It
+	Journey: Girl Can't Help It [cached]
 
 Searching: Howard Jones: You Know I Love You ... Don't You?
-=========> Howard Jones: You Know I Love You     Don t You
 
-	Howard Jones: You Know I Love You... Don't You? - Live at Siyan
+	Howard Jones: You Know I Love You... Don't You? - Live at Siyan [cached]
 
 Searching: Chicago: If She Would Have Been Faithful. . .
-=========> Chicago: If She Would Have Been Faithful
 
-	Chicago: If She Would Have Been Faithful...
+	Chicago: If She Would Have Been Faithful... [cached]
 
 Searching: Living In A Box: Living In A Box
 
-	Living In A Box: Living in a Box
+	Living In A Box: Living in a Box [cached]
 
 Searching: The Cars: You Are The Girl
 
-	The Cars: You Are the Girl
+	The Cars: You Are the Girl [cached]
 
 Searching: Midnight Oil: Beds Are Burning
 
-	Midnight Oil: Beds Are Burning - Remastered
+	Midnight Oil: Beds Are Burning - Remastered [cached]
 
 Searching: Billy Ocean: The Colour Of Love
 
-	Billy Ocean: The Colour of Love
+	Billy Ocean: The Colour of Love [cached]
 
 Searching: Aerosmith: Rag Doll
 
-	Aerosmith: Rag Doll
+	Aerosmith: Rag Doll [cached]
 
 Searching: Debbie Gibson: No More Rhyme
 
-	Debbie Gibson: No More Rhyme
+	Debbie Gibson: No More Rhyme [cached]
 
 Searching: Michael Bolton: Soul Provider
 
-	Michael Bolton: Soul Provider
+	Michael Bolton: Soul Provider [cached]
 
 Searching: Adam Ant: Room At The Top
 =========> Adam Ant: Room At Top
@@ -749,59 +686,55 @@ Searching: Adam Ant: Room At The Top
 
 Searching: Expose: Your Baby Never Looked Good In Blue
 
-	Exposé: Your Baby Never Looked Good In Blue - (Radio Remix)
+	Exposé: Your Baby Never Looked Good In Blue - (Radio Remix) [cached]
 
 Searching: LL Cool J: Mama Said Knock You Out
 
-	LL Cool J: Mama Said Knock You Out
+	LL Cool J: Mama Said Knock You Out [cached]
 
 Searching: Surface: Never Gonna Let You Down
 
-	Surface: Never Gonna Let You Down
+	Surface: Never Gonna Let You Down [cached]
 
 Searching: Cher: Love And Understanding
 
-	Cher: Love And Understanding
+	Cher: Love And Understanding [cached]
 
 Searching: Keith Sweat: Keep It Comin'
-=========> Keith Sweat: Keep It Comin
 
-	Keith Sweat: Keep It Comin' - Smooth Version
+	Keith Sweat: Keep It Comin' - Smooth Version [cached]
 
 Searching: Spin Doctors: Little Miss Can't Be Wrong
-=========> Spin Doctors: Little Miss Can t Be Wrong
 
-	Spin Doctors: Little Miss Can't Be Wrong
+	Spin Doctors: Little Miss Can't Be Wrong [cached]
 
 Searching: Sting: If I Ever Lose My Faith In You
 
-	Sting: If I Ever Lose My Faith In You
+	Sting: If I Ever Lose My Faith In You [cached]
 
 Searching: Green Jelly: Three Little Pigs
 
-	Green Jelly: Three Little Pigs
+	Green Jelly: Three Little Pigs [cached]
 
 Searching: Captain Hollywood Project: More And More
 
-	Captain Hollywood Project: More And More - Single Version
+	Captain Hollywood Project: More And More - Single Version [cached]
 
 Searching: Culture Beat: Mr. Vain
-=========> Culture Beat: Mr  Vain
 
-	Culture Beat: Mr. Vain - Original Radio Edit
+	Culture Beat: Mr. Vain - Original Radio Edit [cached]
 
 Searching: Zhane: Groove Thang
 
-	Zhané: Groove Thang
+	Zhané: Groove Thang [cached]
 
 Searching: Tim McGraw: Don't Take The Girl
-=========> Tim McGraw: Don t Take The Girl
 
-	Tim McGraw: Don't Take The Girl
+	Tim McGraw: Don't Take The Girl [cached]
 
 Searching: Aerosmith: Crazy
 
-	Aerosmith: Crazy
+	Aerosmith: Crazy [cached]
 
 Searching: K-Ci Hailey: If You Think You're Lonely Now
 =========> K Ci Hailey: If You Think You re Lonely Now
@@ -810,38 +743,35 @@ Searching: K-Ci Hailey: If You Think You're Lonely Now
 
 Searching: Naughty By Nature: Feel Me Flow
 
-	Naughty By Nature: Feel Me Flow
+	Naughty By Nature: Feel Me Flow [cached]
 
 Searching: Soul For Real: Every Little Thing I Do
 
-	Soul For Real: Every Little Thing I Do
+	Soul For Real: Every Little Thing I Do [cached]
 
 Searching: The Rembrandts: I'll Be There For You/This House Is Not A Home
-=========> The Rembrandts: I ll Be There For You This House Is Not A Home
 
-	The Rembrandts: I'll Be There for You (Theme from "Friends')
+	The Rembrandts: I'll Be There for You (Theme from "Friends') [cached]
 
 Searching: Deborah Cox: Who Do U Love
 
-	Deborah Cox: Who Do U Love
+	Deborah Cox: Who Do U Love [cached]
 
 Searching: Junior M.A.F.I.A. Featuring The Notorious B.I.G.: Get Money
-=========> Junior M A F I A: Get Money
 
-	Junior M.A.F.I.A.: Get Money
+	Junior M.A.F.I.A.: Get Money [cached]
 
 Searching: Mint Condition: What Kind Of Man Would I Be
 
-	Mint Condition: What Kind Of Man Would I Be
+	Mint Condition: What Kind Of Man Would I Be [cached]
 
 Searching: Brian McKnight Featuring Mase: You Should Be Mine (Don't Waste Your Time)
-=========> Brian McKnight: You Should Be Mine
 
-	Brian McKnight: You Should Be Mine (Don't Waste Your Time)
+	Brian McKnight: You Should Be Mine (Don't Waste Your Time) [cached]
 
 Searching: Lisa Loeb: I Do
 
-	Lisa Loeb: I Do
+	Lisa Loeb: I Do [cached]
 
 Searching: The Lox [Featuring DMX & Lil' Kim]: Money, Power & Respect
 =========> Lox  Featuring DMX: Money  Power   Respect
@@ -849,378 +779,341 @@ Searching: The Lox [Featuring DMX & Lil' Kim]: Money, Power & Respect
 	 NOT FOUND
 
 Searching: 112 Featuring Mase: Love Me
-=========> 112: Love Me
 
-	112: Love Me
+	112: Love Me [cached]
 
 Searching: Alanis Morissette: Thank U
 
-	Alanis Morissette: Thank U
+	Alanis Morissette: Thank U [cached]
 
 Searching: Will Smith: Miami
 
-	Will Smith: Miami
+	Will Smith: Miami [cached]
 
 Searching: Mark Chesnutt: I Don't Want To Miss A Thing
-=========> Mark Chesnutt: I Don t Want To Miss A Thing
 
-	Mark Chesnutt: I Don't Want To Miss A Thing
+	Mark Chesnutt: I Don't Want To Miss A Thing [cached]
 
 Searching: Nine Inch Nails: The Day The World Went Away
 
-	Nine Inch Nails: The Day The World Went Away
+	Nine Inch Nails: The Day The World Went Away [cached]
 
 Searching: Faith Evans: Never Gonna Let You Go
 
-	Faith Evans: Never Gonna Let You Go
+	Faith Evans: Never Gonna Let You Go [cached]
 
 Searching: 504 Boyz: Wobble Wobble
 
-	504 Boyz: Wobble Wobble
+	504 Boyz: Wobble Wobble [cached]
 
 Searching: Sting Featuring Cheb Mami: Desert Rose
-=========> Sting: Desert Rose
 
-	Sting: Desert Rose
+	Sting: Desert Rose [cached]
 
 Searching: Trick Daddy: I'm A Thug
-=========> Trick Daddy: I m A Thug
 
-	Trick Daddy: I'm a Thug
+	Trick Daddy: I'm a Thug [cached]
 
 Searching: JAY-Z: Girls, Girls, Girls
-=========> JAY Z: Girls  Girls  Girls
 
-	JAY-Z: Girls, Girls, Girls
+	JAY-Z: Girls, Girls, Girls [cached]
 
 Searching: Ludacris: Roll Out (My Business)
-=========> Ludacris: Roll Out
 
-	Ludacris: Rollout (My Business)
+	Ludacris: Rollout (My Business) [cached]
 
 Searching: Sheryl Crow: Soak Up The Sun
 
-	Sheryl Crow: Soak Up The Sun
+	Sheryl Crow: Soak Up The Sun [cached]
 
 Searching: Musiq: dontchange
 
-	Musiq Soulchild: Dontchange - Album Version (Edited)
+	Musiq Soulchild: Dontchange - Album Version (Edited) [cached]
 
 Searching: Lil' Kim Featuring Mr. Cheeks: The Jump Off
-=========> Lil  Kim: The Jump Off
 
-	Lil' Kim: The Jump Off (feat. Mr. Cheeks) - Remix
+	Lil' Kim: The Jump Off (feat. Mr. Cheeks) - Remix [cached]
 
 Searching: Ginuwine Featuring Baby: Hell Yeah
-=========> Ginuwine: Hell Yeah
 
-	Ginuwine: Hell Yeah
+	Ginuwine: Hell Yeah [cached]
 
 Searching: Alan Jackson & Jimmy Buffett: It's Five O'Clock Somewhere
-=========> Alan Jackson   Jimmy Buffett: It s Five O Clock Somewhere
 
-	Alan Jackson: It's Five O'Clock Somewhere
+	Alan Jackson: It's Five O'Clock Somewhere [cached]
 
 Searching: Murphy Lee Featuring Jermaine Dupri: Wat Da Hook Gon Be
-=========> Murphy Lee: Wat Da Hook Gon Be
 
-	Murphy Lee: Wat Da Hook Gon Be - Dirty
+	Murphy Lee: Wat Da Hook Gon Be - Dirty [cached]
 
 Searching: Young Buck: Shorty Wanna Ride
 
-	Young Buck: Shorty Wanna Ride
+	Young Buck: Shorty Wanna Ride [cached]
 
 Searching: Switchfoot: Dare You To Move
 
-	Switchfoot: Dare You To Move
+	Switchfoot: Dare You To Move [cached]
 
 Searching: Lloyd Banks Featuring Avant: Karma
-=========> Lloyd Banks: Karma
 
-	Lloyd Banks: Karma
+	Lloyd Banks: Karma [cached]
 
 Searching: Natasha Bedingfield: These Words
 
-	Natasha Bedingfield: These Words
+	Natasha Bedingfield: These Words [cached]
 
 Searching: Trina Featuring Kelly Rowland: Here We Go
-=========> Trina: Here We Go
 
-	Trina: Here We Go (feat. Kelly Rowland)
+	Trina: Here We Go (feat. Kelly Rowland) [cached]
 
 Searching: Yung Joc Featuring Brandy 'Ms. B.' Hambrick: I Know You See It
-=========> Yung Joc: I Know You See It
 
-	Yung Joc: I Know You See It (feat. Brandy "Ms. B" Hambrick)
+	Yung Joc: I Know You See It (feat. Brandy "Ms. B" Hambrick) [cached]
 
 Searching: Avril Lavigne: Keep Holding On
 
-	Avril Lavigne: Keep Holding On
+	Avril Lavigne: Keep Holding On [cached]
 
 Searching: Nickelback: If Everyone Cared
 
-	Nickelback: If Everyone Cared
+	Nickelback: If Everyone Cared [cached]
 
 Searching: Aly & AJ: Potential Breakup Song
-=========> Aly   AJ: Potential Breakup Song
 
-	Aly & AJ: Potential Breakup Song
+	Aly & AJ: Potential Breakup Song [cached]
 
 Searching: Jonas Brothers: S.O.S.
-=========> Jonas Brothers: S O S
 
-	Jonas Brothers: Sucker
+	Jonas Brothers: Sucker [cached]
 
 Searching: Carrie Underwood: So Small
 
-	Carrie Underwood: So Small
+	Carrie Underwood: So Small [cached]
 
 Searching: Justin Timberlake: LoveStoned
 
-	Justin Timberlake: LoveStoned / I Think She Knows (Interlude)
+	Justin Timberlake: LoveStoned / I Think She Knows (Interlude) [cached]
 
 Searching: The-Dream: Shawty Is A 10
-=========> The Dream: Shawty Is A 10
 
-	The-Dream: Shawty Is A 10
+	The-Dream: Shawty Is A 10 [cached]
 
 Searching: Justin Timberlake Duet With Beyonce: Until The End Of Time
-=========> Justin Timberlake: Until The End Of Time
 
-	Justin Timberlake: Until The End Of Time (with Beyoncé)
+	Justin Timberlake: Until The End Of Time (with Beyoncé) [cached]
 
 Searching: Rick Ross Featuring T-Pain: The Boss
-=========> Rick Ross: The Boss
 
-	Rick Ross: The Boss
+	Rick Ross: The Boss [cached]
 
 Searching: 3 Doors Down: It's Not My Time
-=========> 3 Doors Down: It s Not My Time
 
-	3 Doors Down: It's Not My Time
+	3 Doors Down: It's Not My Time [cached]
 
 Searching: Jordin Sparks: One Step At A Time
 
-	Jordin Sparks: One Step At a Time
+	Jordin Sparks: One Step At a Time [cached]
 
 Searching: David Cook: Light On
 
-	David Cook: Light On
+	David Cook: Light On [cached]
 
 Searching: The Veronicas: Untouched
 
-	The Veronicas: Untouched
+	The Veronicas: Untouched [cached]
 
 Searching: Taylor Swift: Crazier
 
-	Taylor Swift: Crazier
+	Taylor Swift: Crazier [cached]
 
 Searching: Eminem: Beautiful
 
-	Eminem: Beautiful
+	Eminem: Beautiful [cached]
 
 Searching: P!nk: Please Don't Leave Me
-=========> P nk: Please Don t Leave Me
 
-	P!nk: Please Don't Leave Me
+	P!nk: Please Don't Leave Me [cached]
 
 Searching: Drake Featuring Trey Songz & Lil Wayne: Successful
-=========> Drake: Successful
 
-	Drake: Successful (feat. Trey Songz & Lil Wayne)
+	Drake: Successful (feat. Trey Songz & Lil Wayne) [cached]
 
 Searching: John Mayer: Who Says
 
-	John Mayer: Who Says
+	John Mayer: Who Says [cached]
 
 Searching: Justin Bieber: One Time
 
-	Justin Bieber: One Time
+	Justin Bieber: One Time [cached]
 
 Searching: Orianthi: According To You
 
-	Orianthi: According To You
+	Orianthi: According To You [cached]
 
 Searching: Lil Wayne Featuring Drake: Gonorrhea
-=========> Lil Wayne: Gonorrhea
 
-	Lil Wayne: Gonorrhea
+	Lil Wayne: Gonorrhea [cached]
 
 Searching: Taylor Swift: Sparks Fly
 
-	Taylor Swift: Sparks Fly
+	Taylor Swift: Sparks Fly [cached]
 
 Searching: Sugarland: Stuck Like Glue
 
-	Sugarland: Stuck Like Glue
+	Sugarland: Stuck Like Glue [cached]
 
 Searching: Christina Perri: Jar Of Hearts
 
-	Christina Perri: Jar of Hearts
+	Christina Perri: Jar of Hearts [cached]
 
 Searching: Javier Colon: Stitch By Stitch
 
-	Javier Colon: Stitch By Stitch - The Voice Performance
+	Javier Colon: Stitch By Stitch - The Voice Performance [cached]
 
 Searching: Kelly Rowland Featuring Lil Wayne: Motivation
-=========> Kelly Rowland: Motivation
 
-	Kelly Rowland: Motivation
+	Kelly Rowland: Motivation [cached]
 
 Searching: Brad Paisley Duet With Carrie Underwood: Remind Me
-=========> Brad Paisley: Remind Me
 
-	Brad Paisley: Remind Me (with Carrie Underwood)
+	Brad Paisley: Remind Me (with Carrie Underwood) [cached]
 
 Searching: Jason Derulo: It Girl
 
-	Jason Derulo: It Girl
+	Jason Derulo: It Girl [cached]
 
 Searching: Wiz Khalifa: Work Hard, Play Hard
-=========> Wiz Khalifa: Work Hard  Play Hard
 
-	Wiz Khalifa: Work Hard, Play Hard
+	Wiz Khalifa: Work Hard, Play Hard [cached]
 
 Searching: Usher: Climax
 
-	Usher: Climax
+	Usher: Climax [cached]
 
 Searching: Jennifer Lopez Featuring Pitbull: Dance Again
-=========> Jennifer Lopez: Dance Again
 
-	Jennifer Lopez: Dance Again
+	Jennifer Lopez: Dance Again [cached]
 
 Searching: Justin Bieber: Die In Your Arms
 
-	Justin Bieber: Die In Your Arms
+	Justin Bieber: Die In Your Arms [cached]
 
 Searching: Calvin Harris Featuring Ne-Yo: Let's Go
-=========> Calvin Harris: Let s Go
 
-	Calvin Harris: Let's Go (feat. Ne-Yo)
+	Calvin Harris: Let's Go (feat. Ne-Yo) [cached]
 
 Searching: Miguel: Adorn
 
-	Miguel: Adorn
+	Miguel: Adorn [cached]
 
 Searching: Kendrick Lamar: Swimming Pools (Drank)
-=========> Kendrick Lamar: Swimming Pools
 
-	Kendrick Lamar: Swimming Pools (Drank)
+	Kendrick Lamar: Swimming Pools (Drank) [cached]
 
 Searching: Pitbull Featuring TJR: Don't Stop The Party
-=========> Pitbull: Don t Stop The Party
 
-	Pitbull: Don't Stop the Party (feat. TJR)
+	Pitbull: Don't Stop the Party (feat. TJR) [cached]
 
 Searching: will.i.am Featuring Justin Bieber: #thatPOWER
-=========> will i am: thatPOWER
 
-	will.i.am: #thatPOWER
+	will.i.am: #thatPOWER [cached]
 
 Searching: AWOLNATION: Sail
 
-	AWOLNATION: Sail
+	AWOLNATION: Sail [cached]
 
 Searching: Lana Del Rey: West Coast
 
-	Lana Del Rey: West Coast
+	Lana Del Rey: West Coast [cached]
 
 Searching: Katy Perry: Birthday
 
-	Katy Perry: Birthday
+	Katy Perry: Birthday [cached]
 
 Searching: Sia: Elastic Heart
 
-	Sia: Elastic Heart
+	Sia: Elastic Heart [cached]
 
 Searching: Zedd Featuring Selena Gomez: I Want You To Know
-=========> Zedd: I Want You To Know
 
-	Zedd: I Want You To Know
+	Zedd: I Want You To Know [cached]
 
 Searching: X Ambassadors: Renegades
 
-	X Ambassadors: Renegades
+	X Ambassadors: Renegades [cached]
 
 Searching: Kevin Gates: 2 Phones
 
-	Kevin Gates: 2 Phones
+	Kevin Gates: 2 Phones [cached]
 
 Searching: Britney Spears Featuring G-Eazy: Make Me...
-=========> Britney Spears: Make Me
 
-	Britney Spears: Make Me... (feat. G-Eazy)
+	Britney Spears: Make Me... (feat. G-Eazy) [cached]
 
 Searching: Halsey: Now Or Never
 
-	Halsey: Now Or Never
+	Halsey: Now Or Never [cached]
 
 Searching: Post Malone: Stay
 
-	Post Malone: Stay
+	Post Malone: Stay [cached]
 
 Searching: Drake: Survival
 
-	Drake: Survival
+	Drake: Survival [cached]
 
 Searching: Lil Wayne: Can't Be Broken
-=========> Lil Wayne: Can t Be Broken
 
-	Lil Wayne: Can't Be Broken
+	Lil Wayne: Can't Be Broken [cached]
 
 Searching: Ariana Grande: NASA
 
-	Ariana Grande: NASA
+	Ariana Grande: NASA [cached]
 
 Searching: Lil Dicky: Earth
 
-	Lil Dicky: Earth
+	Lil Dicky: Earth [cached]
 
 Searching: Morgan Wallen: Whiskey Glasses
 
-	Morgan Wallen: Whiskey Glasses
+	Morgan Wallen: Whiskey Glasses [cached]
 
 Searching: Blake Shelton: God's Country
-=========> Blake Shelton: God s Country
 
-	Blake Shelton: God's Country
+	Blake Shelton: God's Country [cached]
 
 Searching: Harry Styles: Lights Up
 
-	Harry Styles: Lights Up
+	Harry Styles: Lights Up [cached]
 
 Searching: Kanye West: Closed On Sunday
 
-	Kanye West: Closed On Sunday
+	Kanye West: Closed On Sunday [cached]
 
 Searching: Mac Miller: Good News
 
-	Mac Miller: Good News
+	Mac Miller: Good News [cached]
 
 Searching: NAV, Gunna & Travis Scott: Turks
-=========> NAV  Gunna   Travis Scott: Turks
 
-	NAV: Turks (with Gunna & ft. Travis Scott)
+	NAV: Turks (with Gunna & ft. Travis Scott) [cached]
 
 Searching: DaBaby Featuring YoungBoy Never Broke Again: Jump
-=========> DaBaby: Jump
 
-	DaBaby: JUMP (feat. YoungBoy Never Broke Again)
+	DaBaby: JUMP (feat. YoungBoy Never Broke Again) [cached]
 
 Searching: Trevor Daniel: Falling
 
-	Trevor Daniel: Falling
+	Trevor Daniel: Falling [cached]
 
 Searching: Pop Smoke Featuring Lil Tjay: Mood Swings
-=========> Pop Smoke: Mood Swings
 
-	Pop Smoke: Mood Swings (feat. Lil Tjay)
+	Pop Smoke: Mood Swings (feat. Lil Tjay) [cached]
 
 Searching: Lee Brice: One Of Them Girls
 
-	Lee Brice: One Of Them Girls
+	Lee Brice: One Of Them Girls [cached]
 
 Searching: Moneybagg Yo: Said Sum
 
-	Moneybagg Yo: Said Sum (feat. City Girls & DaBaby) - Remix
+	Moneybagg Yo: Said Sum (feat. City Girls & DaBaby) - Remix [cached]

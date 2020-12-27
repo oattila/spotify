@@ -7,6 +7,8 @@ import re
 import billboard.constants
 import os.path
 import sys
+import json
+import datetime
 from songs import *
 
 def Rate():
@@ -196,10 +198,116 @@ def MakePlaylistFiles():
 		
 		prse = round(100 * found / total)
 
-	print("------------------- MakePlayLists done --------------------")
+	print("------------------- MakePlayListFiles done --------------------")
 
-	print(f"Found {found}/{total} = {prse}%\n")
-	print(f"{total - found} not found.\n")
+	str = f"Found {found}/{total} = {prse}%\n" + f"{total - found} not found.\n"
+	print(str)
+
+	with open(TOTAL_FILE, "w") as f:
+		f.write(str)
+
+def GetPlaylistIds():
+	if not os.path.isfile(PLAYLIST_FILE):
+		return {}
+	
+	with open(PLAYLIST_FILE, "r") as f:
+		return json.loads(f.read())
+
+
+def SavePlaylistIds(dict):
+	with open(PLAYLIST_FILE, "w") as f:
+		f.write(json.dumps(dict))
+
+
+def GetPlaylistId(internalId):
+	return GetPlaylistIds().get(internalId)
+
+
+def RemovePlaylistId(internalId):
+	dict = GetPlaylistIds()
+	dict.pop(internalId, None)
+	SavePlaylistIds(dict)
+
+
+def AddPlaylistId(internalId, id):
+	dict = GetPlaylistIds()
+	dict[internalId] = id
+	SavePlaylistIds(dict)
+
+def GetPlaylist(id):
+	try:
+		spl = connection.Get(PLAYLIST_URL + id, params = {"fields": "id"})
+		return spl
+	except Exp as e:
+		if e.response.status_code == 404:
+			return None
+		else:
+			raise(e)
+
+
+def GetUserId():
+	return connection.Get(constants.ME_URL)["id"]
+
+
+def GetDesc(i):
+	now = datetime.datetime.now()
+	d = now.strftime("%d.%m.%Y %H:%M")
+	return "All tracks with highest position = " + str(i) + " in Billboard Hot 100 ever. Automatically created by Spotify Megatool 3000. Playlist last updated " + d + ". https://github.com/oattila/spotify"
+
+
+def MakePlaylist(internalId, filename, playlistName, desc):
+	print(f'Making playlist "{playlistName}" from {filename}')
+
+	id = GetPlaylistId(internalId)
+	spl = None
+
+	if id:
+		print("Playlist was previously created. Searching for it.")
+		spl = GetPlaylist(id)
+
+		if spl:
+			print("Playlist found.")
+		else:
+			print("Not found. It was probably deleted.")
+			RemovePlaylistId(internalId)
+	else:
+		print("Playlist does not exist.")
+
+	if not spl:
+		print("Creating empty playlist")
+		url = USERS_URL + GetUserId() + "/playlists"
+		data = {"name": playlistName, "public": True, "collaborative": False, "description": desc}
+		spl = connection.Post(url, data)
+		AddPlaylistId(internalId, spl["id"])
+	else:
+		print("Clearing playlist contents")
+		url = PLAYLIST_URL + spl["id"] + "/tracks/"
+		connection.Put(url, {"uris":[]})
+
+	connection.Put(PLAYLIST_URL + spl["id"], {"description": desc})
+
+	uris = []
+
+	with open(filename) as f:
+		for uri in f:
+			uris.append(uri.rstrip())
+
+	print("Adding " + str(len(uris)) + " songs.")
+	url = PLAYLIST_URL + spl["id"] + "/tracks/"
+	
+	while uris:
+		chunk = uris[:100]
+		print("Adding chunk of " + str(len(chunk)))
+		connection.Post(url, {"uris": chunk})
+		uris = uris[100:]
+
+	print("Done.")
+
+
+def MakePlaylists():
+	for i in range(100, 0, -1):
+		filename = constants.PLAYLIST_DIR + f"/{i}.txt"
+		MakePlaylist(str(i), filename, "Billboard Hot 100 #" + str(i) +"s", GetDesc(i))
 
 def main():
 	global connection

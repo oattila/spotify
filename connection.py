@@ -12,7 +12,7 @@ class Exp(Exception):
 		super().__init__()
 
 	def __str__(self):
-		return self.url + ": " + str(self.response.status_code) + "\n" + str(self.response.json())
+		return self.url + ": " + str(self.response.status_code) + "\n" + str(self.response.json)
 
 class Connection:
 	def __init__(self):
@@ -50,6 +50,39 @@ class Connection:
 			raise Exp(url, response)
 
 		return response.json()
+
+
+	def Post(self, url, data):
+		headers = {"Authorization": "Bearer " + self.access_token}
+
+		response = requests.post(url, json = data, headers = {"Authorization": "Bearer " + self.access_token});
+
+		if response.status_code == 429:
+			print("RATE LIMITING IN ACTION")
+			print(str(response.json()))
+			input()
+			return Post(self, url, data)
+
+		if not response.ok:
+			raise Exp(url, response)
+
+		return response.json()
+
+
+	def Put(self, url, data):
+		headers = {"Authorization": "Bearer " + self.access_token}
+
+		response = requests.put(url, json = data, headers = {"Authorization": "Bearer " + self.access_token});
+
+		if response.status_code == 429:
+			print("RATE LIMITING IN ACTION")
+			print(str(response.json()))
+			input()
+			return Put(self, url, data)
+
+		if not response.ok:
+			raise Exp(url, response)
+
 
 def GetCode():
 	scope = constants.SCOPE
