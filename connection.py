@@ -5,6 +5,9 @@ import base64
 import re
 import os
 
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
+
 class Exp(Exception):
 	def __init__(self, url, response):
 		self.url = url
@@ -16,6 +19,14 @@ class Exp(Exception):
 
 class Connection:
 	def __init__(self):
+		retry_strategy = Retry(
+			total=3,
+		    status_forcelist=[429, 500, 502, 503, 504],
+		    method_whitelist=["HEAD", "GET", "OPTIONS"])
+		adapter = HTTPAdapter(max_retries=retry_strategy)
+		self.http = requests.Session()
+		self.http.mount("https://", adapter)
+		self.http.mount("http://", adapter)
 		self.refreshToken = GetRefreshToken()
 		self.UpdateAccessToken()
 
@@ -38,7 +49,7 @@ class Connection:
 
 	def Get(self, url, params = None):
 		headers = {"Authorization": "Bearer " + self.access_token}
-		response = requests.get(url, params = params, headers = {"Authorization": "Bearer " + self.access_token});
+		response = self.http.get(url, params = params, headers = {"Authorization": "Bearer " + self.access_token});
 
 		if response.status_code == 429:
 			print("RATE LIMITING IN ACTION")
@@ -55,13 +66,13 @@ class Connection:
 	def Post(self, url, data):
 		headers = {"Authorization": "Bearer " + self.access_token}
 
-		response = requests.post(url, json = data, headers = {"Authorization": "Bearer " + self.access_token});
+		response = self.http.post(url, json = data, headers = {"Authorization": "Bearer " + self.access_token});
 
 		if response.status_code == 429:
 			print("RATE LIMITING IN ACTION")
 			print(str(response.json()))
 			input()
-			return Post(self, url, data)
+			return self.http.Post(self, url, data)
 
 		if not response.ok:
 			raise Exp(url, response)
@@ -72,7 +83,7 @@ class Connection:
 	def Put(self, url, data):
 		headers = {"Authorization": "Bearer " + self.access_token}
 
-		response = requests.put(url, json = data, headers = {"Authorization": "Bearer " + self.access_token});
+		response = self.http.put(url, json = data, headers = {"Authorization": "Bearer " + self.access_token});
 
 		if response.status_code == 429:
 			print("RATE LIMITING IN ACTION")
