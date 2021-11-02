@@ -1,5 +1,5 @@
-Found 243/266 = 91%
-23 not found: 
+Found 251/273 = 92%
+22 not found: 
 Jimmy Gilmer And The Fireballs: Ain't Gonna Tell Anybody
 George Martin And His Orch.: Ringo's Theme (This Boy)
 Al Martino: Somebody Else Is Taking My Place
@@ -8,7 +8,6 @@ The Impressions: Ain't Got Time
 Dusk: I Hear Those Church Bells Ringing
 Nino Tempo And 5th Ave. Sax: Sister James
 Michael Holm: When A Child Is Born
-Aretha Franklin: Mr. D.J. (5 For The D.J.)
 Neil Sedaka: You Gotta Make Your Own Sunshine
 Beckmeier Brothers: Rock And Roll Dancin'
 Roger Daltrey: Free Me
@@ -374,9 +373,8 @@ Searching: Fox: Only You Can
 	Fox: Only You Can [cached]
 
 Searching: Aretha Franklin: Mr. D.J. (5 For The D.J.)
-=========> Aretha Franklin: Mr  D J
 
-	 NOT FOUND
+	Aretha Franklin: Mr. D.J. (5 For The D.J.) [cached]
 
 Searching: Leon Russell: Back To The Island
 
@@ -1100,3 +1098,33 @@ Searching: Lil Durk Featuring Pooh Shiesty: Should've Ducked
 Searching: NF: Clouds
 
 	NF: CLOUDS [cached]
+
+Searching: Coldplay: Higher Power
+
+	Coldplay: Higher Power [cached]
+
+Searching: Polo G: Black Hearted
+
+	Polo G: Black Hearted [cached]
+
+Searching: Elle King & Miranda Lambert: Drunk (And I Don't Wanna Go Home)
+
+	Elle King: Drunk (And I Don't Wanna Go Home) [cached]
+
+Searching: Kanye West: No Child Left Behind
+
+	Kanye West: No Child Left Behind
+
+Searching: Baby Keem & Kendrick Lamar: Range Brothers
+=========> Baby Keem   Kendrick Lamar: Range Brothers
+
+	Baby Keem: range brothers (with Kendrick Lamar)
+
+Searching: YoungBoy Never Broke Again: Hold Me Down
+
+	YoungBoy Never Broke Again: Hold Me Down
+
+Searching: Don Toliver Featuring Travis Scott: Flocky Flocky
+=========> Don Toliver: Flocky Flocky
+
+	Don Toliver: Flocky Flocky (feat. Travis Scott)

@@ -1,14 +1,11 @@
-Found 233/248 = 94%
-15 not found: 
+Found 242/254 = 95%
+12 not found: 
 Pat Boone: Gee, But It's Lonely
 Sam Cooke: Everybody Likes To Cha Cha Cha
 Patti Page: One Of Us (Will Weep Tonight)
 The Leaves: Hey Joe
-Ray Charles: Let's Go Get Stoned
 Vincent Bell: Airport Love Theme (Gwen And Vern)
 John & Ernest: Super Fly Meets Shaft
-Olivia Newton-John: Livin' In Desperate Times
-Denise Lopez: Sayin' Sorry (Don't Make It Right)
 Michael Damian: Cover Of Love
 Indecent Obsession: Tell Me Something
 Various Artists: ESPN Presents The Jock Jam
@@ -200,9 +197,8 @@ Searching: The Leaves: Hey Joe
 	 NOT FOUND
 
 Searching: Ray Charles: Let's Go Get Stoned
-=========> Ray Charles: Let s Go Get Stoned
 
-	 NOT FOUND
+	Ray Charles: Let's Go Get Stoned [cached]
 
 Searching: Tommy James And The Shondells: It's Only Love
 
@@ -517,7 +513,7 @@ Searching: Quiet Riot: Bang Your Head (Metal Health)
 Searching: Olivia Newton-John: Livin' In Desperate Times
 =========> Olivia Newton John: Livin  In Desperate Times
 
-	 NOT FOUND
+	Olivia Newton-John: Livin' In Desperate Times - Soundtrack Version
 
 Searching: Talk Talk: It's My Life
 
@@ -556,9 +552,8 @@ Searching: Glass Tiger: I'm Still Searching
 	Glass Tiger: I'm Still Searching [cached]
 
 Searching: Denise Lopez: Sayin' Sorry (Don't Make It Right)
-=========> Denise Lopez: Sayin  Sorry
 
-	 NOT FOUND
+	Denise Lopez: Sayin Sorry (Don't Make It Right) [cached]
 
 Searching: Johnny Hates Jazz: I Don't Want To Be A Hero
 
@@ -1018,3 +1013,28 @@ Searching: Russell Dickerson: Love You Like I Used To
 Searching: Future & Lil Uzi Vert: Drankin N Smokin
 
 	Future: Drankin N Smokin [cached]
+
+Searching: Parmalee x Blanco Brown: Just The Way
+
+	Parmalee: Just the Way [cached]
+
+Searching: Moneybagg Yo: Time Today
+
+	Moneybagg Yo: Time Today [cached]
+
+Searching: Mooski: Track Star
+
+	Mooski: Track Star [cached]
+
+Searching: Dua Lipa: We're Good
+
+	Dua Lipa: We're Good [cached]
+
+Searching: Lil Baby & Lil Durk: 2040
+
+	Lil Baby: 2040 [cached]
+
+Searching: CKay: Love Nwantiti (Ah Ah Ah)
+=========> CKay: Love Nwantiti
+
+	CKay: love nwantiti (ah ah ah)

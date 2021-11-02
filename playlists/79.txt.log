@@ -1,5 +1,5 @@
-Found 224/252 = 89%
-28 not found: 
+Found 233/258 = 90%
+25 not found: 
 Dorothy Collins: Banjo Boy
 Phyllis McGuire: I Don't Want To Walk Without You
 Ray Charles and his Orchestra: I Gotta Woman (Part One)
@@ -9,7 +9,6 @@ Heaven Bound with Tony Scotti: Five Hundred Miles
 Coven: One Tin Soldier (The Legend of Billy Jack)
 Gene Cotton: Sunshine Roses
 Brown Sugar: The Game Is Over (What's The Matter With You)
-The Deadly Nightshade: Mary Hartman, Mary Hartman
 Terry Cashman: Baby, Baby I Love You
 Karen Nelson And Billy T: Love Me One More Time (Just For Old Times Sake)
 Cooper Brothers Band: I'll Know Her When I See Her
@@ -24,8 +23,6 @@ Times Two: Cecilia
 Missjones: Where I Wanna Be Boy
 Pure Soul: Stairway To Heaven
 EOL: Love The Way
-Mannie Fresh: Real Big
-The Pussycat Dolls: Top Of The World
 Big Time Rush: Big Night
 Christina Grimmie: How To Love
 --------- log -----------
@@ -375,9 +372,9 @@ Searching: The Stylistics: You Are Beautiful
 	The Stylistics: You Are Beautiful [cached]
 
 Searching: The Deadly Nightshade: Mary Hartman, Mary Hartman
-=========> Deadly Nightshade: Mary Hartman  Mary Hartman
+=========> The Deadly Nightshade: Mary Hartman  Mary Hartman
 
-	 NOT FOUND
+	The Deadly Nightshade: Mary Hartman, Mary Hartman (Theme)
 
 Searching: Gary Wright: Made To Love You
 
@@ -749,7 +746,7 @@ Searching: Britney Spears: Outrageous
 
 Searching: Mannie Fresh: Real Big
 
-	 NOT FOUND
+	Mannie Fresh: Real Big [cached]
 
 Searching: Dem Franchize Boyz: White Tee's
 
@@ -800,9 +797,8 @@ Searching: Melissa Lawson: What If It All Goes Right
 	Melissa Lawson: What If It All Goes Right [cached]
 
 Searching: The Pussycat Dolls: Top Of The World
-=========> Pussycat Dolls: Top Of World
 
-	 NOT FOUND
+	The Pussycat Dolls: Top Of The World [cached]
 
 Searching: U2: Magnificent
 
@@ -1051,3 +1047,27 @@ Searching: Internet Money Featuring Juice WRLD & Trippie Redd: Blastoff
 Searching: Bad Bunny: El Mundo Es Mio
 
 	Bad Bunny: EL MUNDO ES MÍO [cached]
+
+Searching: NF Featuring Hopsin: Lost
+
+	NF: LOST [cached]
+
+Searching: DJ Khaled Featuring Bryson Tiller, Lil Baby & Roddy Ricch: Body In Motion
+
+	DJ Khaled: BODY IN MOTION (feat. Bryson Tiller, Lil Baby & Roddy Ricch) [cached]
+
+Searching: Lil Baby & Lil Durk: Please
+
+	Lil Baby: Please [cached]
+
+Searching: Polo G Featuring Pop Smoke & Fivio Foreign: Clueless
+
+	Polo G: Clueless (with Pop Smoke & Fivio Foreign) [cached]
+
+Searching: Nas Featuring Eminem & EPMD: EPMD 2
+
+	Nas: EPMD 2 (feat. Eminem & EPMD) [cached]
+
+Searching: Machine Gun Kelly: Papercuts
+
+	Machine Gun Kelly: papercuts [cached]

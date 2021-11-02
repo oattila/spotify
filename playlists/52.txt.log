@@ -1,9 +1,7 @@
-Found 260/286 = 91%
-26 not found: 
+Found 269/291 = 92%
+22 not found: 
 Patti Page: I Wish I'd Never Been Born
 Little Stevie Wonder: Castles In The Sand
-Alvin Robinson: Something You Got
-Ray Charles and his Orchestra: Smack Dab In The Middle
 Al Martino: My Heart Would Know
 Baja Marimba Band: Ghost Riders In The Sky
 Ray Stevens: Unwind
@@ -15,7 +13,6 @@ Olivia Newton-John: Totally Hot
 Peter McIan: Solitaire
 Billy Preston & Syreeta: One More Time For Love
 The Pointer Sisters: Could I Be Dreaming
-Olivia Newton-John: Landslide
 Bill Conti: Theme From Dynasty
 Robbie Patton: Smiling Islands
 Billy Rankin: Baby Come Back
@@ -25,7 +22,6 @@ Aftershock: Going Through The Motions
 Angelina: Release Me
 JD Featuring Jay-Z: Money Ain't A Thang
 Stars On 54: Ultra Nate, Amber, Jocelyn Enriquez: If You Could Read My Mind
-Studio All-Stars: American Boy
 --------- log -----------
 Searching: Jerry Lee Lewis And His Pumping Piano: Break-Up
 
@@ -131,16 +127,16 @@ Searching: Anna King-Bobby Byrd: Baby Baby Baby
 
 Searching: Alvin Robinson: Something You Got
 
-	 NOT FOUND
+	Alvin Robinson: Something You Got [cached]
 
 Searching: Irma Thomas: Anyone Who Knows What Love Is (will understand)
 
 	Irma Thomas: Anyone Who Knows What Love Is (Will Understand) [cached]
 
 Searching: Ray Charles and his Orchestra: Smack Dab In The Middle
-=========> Ray Charles: Smack Dab In Middle
+=========> Ray Charles: Smack Dab In The Middle
 
-	 NOT FOUND
+	Ray Charles: Smack Dab in the Middle
 
 Searching: Sandie Shaw: (There's) Always Something There To Remind Me
 
@@ -595,7 +591,7 @@ Searching: Waylon & Willie: Just To Satisfy You
 Searching: Olivia Newton-John: Landslide
 =========> Olivia Newton John: Landslide
 
-	 NOT FOUND
+	Olivia Newton-John: Landslide - Remastered 2021
 
 Searching: The Motels: Take The L.
 
@@ -935,9 +931,8 @@ Searching: LL Cool J Featuring The-Dream: Baby
 	LL Cool J: Jingling Baby [cached]
 
 Searching: Studio All-Stars: American Boy
-=========> Studio All Stars: American Boy
 
-	 NOT FOUND
+	Studio Allstars: American Boy [cached]
 
 Searching: Jamey Johnson: In Color
 
@@ -1186,3 +1181,23 @@ Searching: Taylor Swift: Happiness
 Searching: Morgan Wallen: Cover Me Up
 
 	Morgan Wallen: Cover Me Up [cached]
+
+Searching: Brett Young: Lady
+
+	Brett Young: Lady [cached]
+
+Searching: Moneybagg Yo Featuring BIG30: Go!
+
+	Moneybagg Yo: GO! (with BIG30) [cached]
+
+Searching: Nicki Minaj: Fractions
+
+	Nicki Minaj: Fractions [cached]
+
+Searching: Keith Urban Duet With P!nk: One Too Many
+
+	Keith Urban: One Too Many [cached]
+
+Searching: Kanye West: Pure Souls
+
+	Kanye West: Pure Souls

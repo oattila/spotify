@@ -1,16 +1,14 @@
-Found 244/255 = 96%
-11 not found: 
+Found 249/258 = 97%
+9 not found: 
 Pat Boone: Big Cold Wind
 Cledus Maggard And The Citizen's Band: The White Knight
 Thirty Eight Special: If I'd Been The One
 Louie Louie: Sittin' In The Lap Of Luxury
-Sheena Easton: What Comes Naturally
 Raphael Saadiq: Ask Of You (From "Higher Learning")
 Puff Daddy & The Family Featuring The Notorious B.I.G. & Busta Rh: Victory
 Dixie Chicks: Goodbye Earl
 Tupac Featuring The Notorious B.I.G.: Runnin (Dying To Live)
-Maejor Ali Featuring Juicy J & Justin Bieber: Lolly
-YG Featuring Jeezy & Rich Homie Quan: My Hitta
+J. Cole, Bas & 6LACK: let.go.my.hand
 --------- log -----------
 Searching: Joni James: There Goes My Heart
 
@@ -641,7 +639,7 @@ Searching: After 7: Heat Of The Moment
 
 Searching: Sheena Easton: What Comes Naturally
 
-	 NOT FOUND
+	Sheena Easton: What Comes Naturally [cached]
 
 Searching: Firehouse: Don't Treat Me Bad
 
@@ -939,14 +937,12 @@ Searching: J. Cole Featuring Miguel: Power Trip
 	J. Cole: Power Trip (feat. Miguel) [cached]
 
 Searching: Maejor Ali Featuring Juicy J & Justin Bieber: Lolly
-=========> Maejor Ali: Lolly
 
-	 NOT FOUND
+	Maejor: Lolly [cached]
 
 Searching: YG Featuring Jeezy & Rich Homie Quan: My Hitta
-=========> YG: My Hitta
 
-	 NOT FOUND
+	YG: My Hitta [cached]
 
 Searching: Naughty Boy Featuring Sam Smith: La La La
 
@@ -1036,6 +1032,19 @@ Searching: Darlene Love: Christmas (Baby Please Come Home)
 
 	Darlene Love: Christmas (Baby Please Come Home) [cached]
 
-Searching: Yung Bleu Featuring Drake: You're Mines Still
+Searching: Gabby Barrett: The Good Ones
 
-	Yung Bleu: You’re Mines Still (feat. Drake) [cached]
+	Gabby Barrett: The Good Ones [cached]
+
+Searching: J. Cole, Bas & 6LACK: let.go.my.hand
+=========> J  Cole  Bas: let go my hand
+
+	 NOT FOUND
+
+Searching: Olivia Rodrigo: 1 Step Forward, 3 Steps Back
+
+	Olivia Rodrigo: 1 step forward, 3 steps back [cached]
+
+Searching: Marshmello X Jonas Brothers: Leave Before You Love Me
+
+	Marshmello: Leave Before You Love Me (with Jonas Brothers) [cached]

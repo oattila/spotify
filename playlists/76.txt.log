@@ -1,19 +1,16 @@
-Found 242/272 = 89%
-30 not found: 
+Found 248/276 = 90%
+28 not found: 
 The DeCastro Sisters: Teach Me Tonight Cha Cha
 Teddy Vann: The Lonely Crowd
 Dave "Baby" Cortez: Organ Shout
-Joe Perkins: Little Eeefin Annie
 The Raelets/Ray Charles Orchestra: One Hurt Deserves Another
 The O'Kaysions: Love Machine
 Paul Mauriat: Chitty Chitty Bang Bang
-The Cuff Links: Run Sally Run
 Tyrannosaurus Rex: Ride A White Swan
 Bob Seger: If I Were A Carpenter
 Five Man Electrical Band: I'm A Stranger Here
 Zwol: New York City
 Cory Daye: Pow Wow
-Crystal Gayle: The Woman In Me
 Gene Cotton: If I Could Get You (into my Life)
 ConFunkShun: Baby I'm Hooked
 Christopher Cross: A Chance For Heaven
@@ -30,6 +27,7 @@ Lil Wayne Featuring Gudda: F**k Today
 Troop 41: Do The John Wall
 Tessanne Chin & Adam Levine: Let It Be
 Beyonce, SAINt JHN & Wizkid Featuring Blue Ivy Carter: Brown Skin Girl
+Willow Featuring Travis Barker: transparentsoul
 --------- log -----------
 Searching: Marty Robbins: Just Married
 
@@ -140,7 +138,7 @@ Searching: Dave "Baby" Cortez: Organ Shout
 
 Searching: Joe Perkins: Little Eeefin Annie
 
-	 NOT FOUND
+	Joe Perkins: Little Eeefin Annie [cached]
 
 Searching: Jay & The Americans: Come Dance With Me
 
@@ -301,9 +299,8 @@ Searching: Dusty Springfield: Silly, Silly, Fool
 	Dusty Springfield: Silly Silly Fool [cached]
 
 Searching: The Cuff Links: Run Sally Run
-=========> Cuff Links: Run Sally Run
 
-	 NOT FOUND
+	The Cuff Links: Run Sally Run
 
 Searching: Booker T. & The MG's: Something
 
@@ -511,9 +508,8 @@ Searching: The Dirt Band: Fire In The Sky
 	Nitty Gritty Dirt Band: Fire In The Sky [cached]
 
 Searching: Crystal Gayle: The Woman In Me
-=========> Crystal Gayle: Woman In Me
 
-	 NOT FOUND
+	Crystal Gayle: The Woman In Me
 
 Searching: Gene Cotton: If I Could Get You (into my Life)
 =========> Gene Cotton: If I Could Get You
@@ -1137,3 +1133,22 @@ Searching: Mariah Carey Featuring Ariana Grande & Jennifer Hudson: Oh Santa!
 Searching: Tim McGraw & Tyler Hubbard: Undivided
 
 	Tim McGraw: Undivided [cached]
+
+Searching: Justin Bieber: Deserve You
+
+	Justin Bieber: Deserve You [cached]
+
+Searching: Willow Featuring Travis Barker: transparentsoul
+=========> Willow: transparentsoul
+
+	 NOT FOUND
+
+Searching: Meek Mill: Outside (100 MPH)
+=========> Meek Mill: Outside
+
+	Meek Mill: Outside (100 MPH)
+
+Searching: Cody Johnson: 'Til You Can't
+=========> Cody Johnson: Til You Can t
+
+	Cody Johnson: 'Til You Can't

@@ -1,0 +1,5 @@
+python3 -m billboard.download
+python3 -m billboard.parse
+python3 -m billboard.data
+python3 megatool.py -plf
+python3 megatool.py -pl

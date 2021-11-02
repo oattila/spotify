@@ -1,5 +1,5 @@
-Found 245/262 = 94%
-17 not found: 
+Found 247/263 = 94%
+16 not found: 
 The Ames Brothers: Red River Rose
 Duane Eddy His Twangy Guitar And The Rebels: Some Kind-A Earthquake
 The Chicago Loop: (When She Needs Good Lovin') She Comes To Me
@@ -13,7 +13,6 @@ Stallion: Old Fashioned Boy (You're The One)
 Haircut One Hundred: Love Plus One
 Barry Gibb: Shine Shine
 One 2 Many: Downtown
-Scarface: I Never Seen A Man Cry (aka I Seen A Man Die)
 Andy Griggs: She's More
 Kris Allen: Ain't No Sunshine
 Sawyer Fredericks: Please
@@ -690,9 +689,8 @@ Searching: Da Brat: Fa All Y'all
 	Da Brat: Fa All Y'All [cached]
 
 Searching: Scarface: I Never Seen A Man Cry (aka I Seen A Man Die)
-=========> Scarface: I Never Seen A Man Cry
 
-	 NOT FOUND
+	Scarface: I Seen A Man Die (Aka I Never Seen A Man Cry) [cached]
 
 Searching: Amy Grant With Vince Gill: House Of Love
 
@@ -1068,10 +1066,15 @@ Searching: Lil Nas X: Holiday
 
 	Lil Nas X: HOLIDAY [cached]
 
-Searching: Moneybagg Yo: Time Today
+Searching: Taylor Swift: Wildest Dreams (Taylor's Version)
+=========> Taylor Swift: Wildest Dreams
 
-	Moneybagg Yo: Time Today [cached]
+	Taylor Swift: Wildest Dreams
 
-Searching: Luke Bryan: Down To One
+Searching: YoungBoy Never Broke Again: On My Side
 
-	Luke Bryan: Down To One [cached]
+	YoungBoy Never Broke Again: On My Side
+
+Searching: Old Dominion: I Was On A Boat That Day
+
+	Old Dominion: I Was On a Boat That Day [cached]

@@ -1,4 +1,4 @@
-Found 306/316 = 97%
+Found 309/319 = 97%
 10 not found: 
 Patti Page: Left Right Out Of Your Heart (Hi Lee Hi Lo Hi Lup Up Up)
 Spencer Ross: Tracy's Theme
@@ -6,10 +6,10 @@ The Walker Bros.: The Sun Ain't Gonna Shine (Anymore)
 Chairman Of The Board: Pay To The Piper
 The Hillside Singers: I'd Like To Teach The World To Sing (In Perfect Harmony)
 Olivia Newton-John: Something Better To Do
-Ian Matthews: Shake It
 Giant Steps: Another Lover
 Rhythm Syndicate: Hey Donna
 Justin Timberlake & Matt Morris Featuring Charlie Sexton: Hallelujah
+J. Cole: applying.pressure
 --------- log -----------
 Searching: Patti Page: Left Right Out Of Your Heart (Hi Lee Hi Lo Hi Lup Up Up)
 =========> Patti Page: Left Right Out Of Your Heart
@@ -519,7 +519,7 @@ Searching: Ace Frehley: New York Groove
 
 Searching: Ian Matthews: Shake It
 
-	 NOT FOUND
+	Ian Matthews: Shake It [cached]
 
 Searching: The Babys: Every Time I Think Of You
 
@@ -1281,3 +1281,16 @@ Searching: The Ronettes: Sleigh Ride
 Searching: Pooh Shiesty Featuring Lil Durk: Back In Blood
 
 	Pooh Shiesty: Back In Blood (feat. Lil Durk) [cached]
+
+Searching: J. Cole: applying.pressure
+=========> J  Cole: applying pressure
+
+	 NOT FOUND
+
+Searching: Maroon 5 Featuring Megan Thee Stallion: Beautiful Mistakes
+
+	Maroon 5: Beautiful Mistakes (feat. Megan Thee Stallion) [cached]
+
+Searching: Post Malone: Motley Crew
+
+	Post Malone: Motley Crew [cached]

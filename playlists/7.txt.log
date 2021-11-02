@@ -1,5 +1,5 @@
-Found 401/410 = 98%
-9 not found: 
+Found 402/412 = 98%
+10 not found: 
 Donny Osmond of The Osmonds: Sweet And Innocent
 Paul McCartney: Spies Like Us
 Gerardo: Rico Suave
@@ -9,6 +9,7 @@ Missy "Misdemeanor" Elliott: Get Ur Freak On
 Dixie Chicks: Long Time Gone
 Dixie Chicks: Landslide
 Plies Featuring Ne-Yo: Bust It Baby Part 2
+J. Cole & Lil Baby: pride.is.the.devil
 --------- log -----------
 Searching: The Coasters: Yakety Yak
 
@@ -1654,3 +1655,13 @@ Searching: Drake Featuring Playboi Carti: Pain 1993
 Searching: Juice WRLD: Conversations
 
 	Juice WRLD: Conversations [cached]
+
+Searching: J. Cole & Lil Baby: pride.is.the.devil
+=========> J  Cole: pride is the devil
+
+	 NOT FOUND
+
+Searching: Drake Featuring Lil Durk & Giveon: In The Bible
+=========> Drake: In The Bible
+
+	Drake: In The Bible (with Lil Durk & Giveon)

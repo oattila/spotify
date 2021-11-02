@@ -1,9 +1,8 @@
-Found 264/296 = 89%
-32 not found: 
+Found 274/302 = 91%
+28 not found: 
 Frank Gallup: Got A Match?
 Bobby Edwards: What's The Reason
 Dion Di Muci: Johnny B. Goode
-Jack Jones: Love Bug
 Lou Courtney: Skate Now
 John Roberts: Sockin' 1-2-3-4
 Hugh Masekela: Puffin' On Down The Track
@@ -12,10 +11,8 @@ Maureen McGovern: Give Me A Reason To Be Gone
 Hello People: Future Shock
 Odia Coates: Showdown
 The Grass Roots: Mamacita
-Billy Preston: Fancy Lady
 Hot: You Brought The Woman Out Of Me
 James Walsh Gypsy Band: Cuz It's You, Girl
-Southside Johnny & The Asbury Jukes: I'm So Anxious
 Jim Kirk And The Tm Singers: Voice Of Freedom
 Starland Vocal Band: Loving You With My Eyes
 Deliverance: Leaving L.A.
@@ -31,7 +28,6 @@ Isyss: Single For The Rest Of My Life
 Ben Folds: Bitches Ain't S**t
 Josh Kaufman: I Can't Make You Love Me
 Sawyer Fredericks: Simple Man
-Garth Brooks: Ask Me How I Know
 --------- log -----------
 Searching: Frank Gallup: Got A Match?
 =========> Frank Gallup: Got A Match
@@ -210,7 +206,7 @@ Searching: Lesley Gore: All Of My Life
 
 Searching: Jack Jones: Love Bug
 
-	 NOT FOUND
+	Jack Jones: Love Bug
 
 Searching: Them: Gloria
 
@@ -454,7 +450,7 @@ Searching: The Grass Roots: Mamacita
 
 Searching: Billy Preston: Fancy Lady
 
-	 NOT FOUND
+	Billy Preston: Fancy Lady [cached]
 
 Searching: Charlie Rich: Since I Fell For You
 
@@ -535,9 +531,8 @@ Searching: Carolyne Mas: Stillsane
 	Carolyne Mas: Stillsane [cached]
 
 Searching: Southside Johnny & The Asbury Jukes: I'm So Anxious
-=========> Southside Johnny: I m So Anxious
 
-	 NOT FOUND
+	Southside Johnny And The Asbury Jukes: I'm So Anxious [cached]
 
 Searching: Jim Kirk And The Tm Singers: Voice Of Freedom
 =========> Jim Kirk: Voice Of Freedom
@@ -1166,7 +1161,7 @@ Searching: Rascal Flatts: Yours If You Want It
 
 Searching: Garth Brooks: Ask Me How I Know
 
-	 NOT FOUND
+	Tonight I'm Garth Brooks: Ask Me How I Know [cached]
 
 Searching: Huncho Jack: Black & Chinese
 
@@ -1235,3 +1230,27 @@ Searching: Lil Durk: Redman
 Searching: Brent Faiyaz & DJ Dahi Featuring Tyler, The Creator: Gravity
 
 	Brent Faiyaz: Gravity (feat. Tyler, The Creator) [cached]
+
+Searching: Jason Derulo Featuring Adam Levine: Lifestyle
+
+	Jason Derulo: Lifestyle (feat. Adam Levine) [cached]
+
+Searching: Rod Wave: All I Got
+
+	Rod Wave: All I Got [cached]
+
+Searching: Taylor Swift: Fearless (Taylor's Version)
+
+	Taylor Swift: Fearless (Taylor’s Version) [cached]
+
+Searching: Tom MacDonald: Snowflakes
+
+	Tom MacDonald: Snowflakes [cached]
+
+Searching: Migos & Cardi B: Type Shit
+
+	Migos: Type Shit (feat. Cardi B) [cached]
+
+Searching: Pop Smoke Featuring Future: Mr. Jones
+
+	Pop Smoke: Mr. Jones (feat. Future) [cached]

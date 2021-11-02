@@ -1,5 +1,5 @@
-Found 240/286 = 84%
-46 not found: 
+Found 244/288 = 85%
+44 not found: 
 The Four Coins: Wendy, Wendy
 Roy Orbison: Up Town
 Pat Boone: Candy Sweet
@@ -10,13 +10,11 @@ The Ray Charles Singers: This Is My Prayer
 Lenny Welch: Darling Take Me Back
 The Royalettes: I Want To Meet Him
 Dallas Frazier: Elvira
-Ray Charles and his Orchestra: I Don't Need No Doctor
 The Righteous Brothers: Stranded In The Middle Of Noplace
 Calvin Arnold: Funky Way
 Otis Leaville: Love Uprising
 Frijid Pink: Heartbreak Hotel
 Five Man Electrical Band: Money Back Guarantee
-Merry Clayton: Oh No, Not My Baby
 Grand Canyon: Evil Boll-weevil
 East L.A. Car Pool: Like They Say In L.A.
 John Dawson Read: A Friend Of Mine Is Going Blind
@@ -45,7 +43,7 @@ Hurricane Chris Featuring Big Poppa: The Hand Clap
 The Lonely Island: J**z In My Pants
 Taylor Swift: Breathless
 James Wolpert: A Case Of You
-Jennifer Lopez & Lin-Manuel Miranda: Love Make The World Go Round
+Meek Mill Featuring Lil Uzi Vert: Blue Note$ II
 --------- log -----------
 Searching: Fats Domino: Little Mary
 
@@ -243,9 +241,8 @@ Searching: B.B. King: Don't Answer The Door - Part 1
 	B.B. King: Don't Answer The Door [cached]
 
 Searching: Ray Charles and his Orchestra: I Don't Need No Doctor
-=========> Ray Charles: I Don t Need No Doctor
 
-	 NOT FOUND
+	Ray Charles: I Don't Need No Doctor [cached]
 
 Searching: The Lettermen: Our Winter Love
 
@@ -377,9 +374,8 @@ Searching: Five Man Electrical Band: Money Back Guarantee
 	 NOT FOUND
 
 Searching: Merry Clayton: Oh No, Not My Baby
-=========> Merry Clayton: Oh No  Not My Baby
 
-	 NOT FOUND
+	Merry Clayton: Oh No, Not My Baby [cached]
 
 Searching: Betty Wright: It's Hard To Stop (Doing Something When It's Good To You)
 
@@ -1092,9 +1088,8 @@ Searching: Drake Featuring Pimp C & dvsn: Faithful
 	Drake: Faithful [cached]
 
 Searching: Jennifer Lopez & Lin-Manuel Miranda: Love Make The World Go Round
-=========> Jennifer Lopez: Love Make World Go Round
 
-	 NOT FOUND
+	Jennifer Lopez: Love Make the World Go Round [cached]
 
 Searching: Jacob Sartorius: Hit Or Miss
 
@@ -1208,6 +1203,15 @@ Searching: Karol G: Bichota
 
 	KAROL G: BICHOTA [cached]
 
-Searching: Dustin Lynch: Momma's House
+Searching: Billie Eilish: Oxytocin
 
-	Dustin Lynch: Momma’s House [cached]
+	Billie Eilish: Oxytocin [cached]
+
+Searching: Lil Nas X: Dead Right Now
+
+	Lil Nas X: DEAD RIGHT NOW
+
+Searching: Meek Mill Featuring Lil Uzi Vert: Blue Note$ II
+=========> Meek Mill: Blue Note  II
+
+	 NOT FOUND
